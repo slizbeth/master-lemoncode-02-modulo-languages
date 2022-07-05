@@ -157,5 +157,6 @@ machine1.play(); // "Congratulations!!!. You won 2 coins!!"
 
 **Guía de inicio**
 1. Descarga o clona el repositorio.
-2. Instala las dependencias locales con `npm install`.
+2. Accede a la carpeta '03-playground-exercises'.
+4. Instala las dependencias locales con `npm install`.
 3. Ejecuta `npm start` para arrancar el servidor.
