@@ -2,13 +2,13 @@
 
 ## Laboratorio Módulo 02 - Lenguajes
 
-**Contenido del Módulo 02**
+## Contenido del Módulo 02
 - Javascript ES5.
 - Javascript ES6 + Propuestas principales ES7.
 - Typescript.
 - Lodash.
 
-**Descripción del ejercicio**
+## Descripción del ejercicio
 
 ### 1. Array operations
 
